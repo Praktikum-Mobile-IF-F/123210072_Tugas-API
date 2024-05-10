@@ -34,5 +34,13 @@ Response Example
 }
 ```
 
+## Tampilan Aplikasi
 
-
+<p float="left">
+  <img src="https://github.com/Praktikum-Mobile-IF-F/123210072_Tugas-API/assets/102598538/b108e81e-ff9b-44c2-af4c-77235b6326c3" width="300" hspace="16"/>
+  <img src="https://github.com/Praktikum-Mobile-IF-F/123210072_Tugas-API/assets/102598538/de1e9a4e-8c84-4705-935a-3e0c0cb824bc" width="300" hspace="16"/> 
+  <img src="https://github.com/Praktikum-Mobile-IF-F/123210072_Tugas-API/assets/102598538/b0eadc95-99fb-496f-aaea-21a12645eef2" width="300" hspace=16"/>
+  <img src="https://github.com/Praktikum-Mobile-IF-F/123210072_Tugas-API/assets/102598538/a2eb24ec-7009-483f-996e-48540cb8ee77" width="300" hspace="16"/>
+  <img src="https://github.com/Praktikum-Mobile-IF-F/123210072_Tugas-API/assets/102598538/fd9ced81-3a94-4852-8df7-f8ee45925970" width="300" hspace="16"/>
+  <img src="https://github.com/Praktikum-Mobile-IF-F/123210072_Tugas-API/assets/102598538/7c72cb54-2986-424b-ba5e-6604acee9d9c" width="300" hspace="16"/>
+</p>
